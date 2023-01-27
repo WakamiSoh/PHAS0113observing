@@ -1,0 +1,14 @@
+# Data of targets required for calculations of exposure times
+# Target names: HZ Her, XY CVn, RR Gem, RR Boo, NN Boo, HV 7558, TV Lyn, HV 7457, HV 7560, HV 7596
+# magnitude (V): zenith distance
+
+13.63	60
+14.26	60
+11.92	60
+11.01	60
+12.74	60
+14.08	60
+11.54	60
+14.23	60
+12.75	60
+14.8	60
